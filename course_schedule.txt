@@ -1,0 +1,6 @@
+CSE 278 - Software Engineering - MWF
+ECE 287 - Digital Systems Design - TR
+MTH 251 - Calculus II - MWF
+PHY 192 - Physics II - TR
+CSE 274 - Data Structures and Algorithms - MW
+ENG 225 - Technical Writing - TR
